@@ -18,7 +18,7 @@ from diffusers.pipelines.stable_diffusion.safety_checker import (
 
 # MODEL_ID refers to a diffusers-compatible model on HuggingFace
 # e.g. prompthero/openjourney-v2, wavymulder/Analog-Diffusion, etc
-MODEL_ID = "ItsJayQz/SynthwavePunk-v2"
+MODEL_ID = "stablediffusionapi/wand-color3"
 MODEL_CACHE = "diffusers-cache"
 SAFETY_MODEL_ID = "CompVis/stable-diffusion-safety-checker"
 
